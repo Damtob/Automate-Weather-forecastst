@@ -57,3 +57,4 @@ for country in country_list:
 
     image.save(str(date.today()) + country[0] + ".png")
     image_pdf = image.convert('RGB')
+    image.save(str(date.today()) + country[0] + ".pdf ")
