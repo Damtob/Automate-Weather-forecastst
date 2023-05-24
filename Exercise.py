@@ -3,7 +3,7 @@ import json
 from PIL import Image, ImageFont, ImageDraw
 from datetime import date
 
-api_key = "481a07a08188143ec9b4f106c0f630ec"  # Update Your API Here
+api_key = "481a07a08188143ec9b4f1.........."  # Update Your API Here
 position = [600, 800, 985, 1170, 1350]
 
 uk_list = ["London", "Manchester", "Edinburgh", "Bristol", "Birmingham"]
